@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c3abd704dbef26c3e04d586f",
+  "owner": "vrwkasw",
+  "repo": "page-4c426932e2e1b0069167f32b",
+  "title": "Eruca",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4c426932e2e1b0069167f32b",
+      "a": "Eruca",
+      "b": "机场官网线路发布页",
+      "entity": "Eruca",
+      "brand": "Eruca",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8e10c367d40bf1dc10916c81b0ae6f58d9e5a83ed3381bc63c490bf8afedf09d",
+      "content": {
+        "primary_entity": "Eruca",
+        "keyword1": "Eruca",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按系统选择客户端，导入 Eruca 订阅后即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档导入订阅，即可开始 Eruca 加速体验。",
+          "AI_CLOSING_TITLE": "开始使用 Eruca",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，覆盖 100GB 至 1000GB 月度流量与 3 至 20 台设备在线需求。旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由与专属客户经理服务，按年付可节省两个月费用。",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。按年付相当于免去两个月费用，适合长期使用者。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台设备同时在线。设备数量按套餐递增，多人共享建议直接选团队版。",
+          "AI_FAQ_ANSWER_3": "基础版为普通线路节点池，旗舰版和团队版提供原生流媒体解锁；旗舰版额外有 IPLC 专线游戏加速优化，对延迟敏感的场景更合适。",
+          "AI_FAQ_ANSWER_4": "在订阅页复制订阅链接，打开对应客户端如 Clash、Shadowrocket 或 v2rayN，新增订阅并粘贴链接，更新节点后选择延迟较低的线路即可。",
+          "AI_FAQ_ANSWER_5": "套餐权益不同。团队版可开具企业定制路由，旗舰版和团队版有优先工单支持。如需升级，可在购买后联系支持调整，按剩余周期补差价。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Eruca 套餐价格和年付优惠是怎样的？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "旗舰版的流媒体解锁和游戏加速与基础版有何区别？",
+          "AI_FAQ_QUESTION_4": "如何把 Eruca 订阅导入客户端？",
+          "AI_FAQ_QUESTION_5": "可以中途升级套餐吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度对比，快速找到适合的订阅档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "100GB 适合轻度使用，300GB 满足日常影音，1000GB 可供多台设备共享。",
+          "AI_FEATURE_TEXT_2": "3 台起步，旗舰版 5 台，团队版 20 台，按常用设备数量选择更划算。",
+          "AI_FEATURE_TEXT_3": "普通线路满足浏览需求，IPLC 专线为游戏和实时应用优化延迟表现。",
+          "AI_FEATURE_TITLE_1": "流量够用吗",
+          "AI_FEATURE_TITLE_2": "设备数匹配",
+          "AI_FEATURE_TITLE_3": "线路类型",
+          "AI_GUIDE_INTRO": "三步完成客户端配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "Eruca 提供基础版、旗舰版、团队版三档订阅，月流量从 100GB 到 1000GB，支持多设备同时在线。旗舰版含 IPLC 专线游戏加速与原生流媒体解锁，团队版支持企业定制路由。",
+          "AI_HERO_SUBTITLE": "Eruca 订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "按年付节省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月支持 3 台设备；旗舰版 ¥35/月支持 5 台并带 IPLC 专线；团队版 ¥85/月支持 20 台设备与企业定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认客户端版本和系统要求，参考客户端文档。",
+          "AI_STEP_TEXT_3": "复制订阅链接，导入客户端并更新节点即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "Eruca 订阅入口"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wj218.com",
+    "host": "wj218.com"
+  },
+  "file_hashes": {
+    "index.html": "ab8c5b5e0a9e4779328a3cb640f50ffbdbd2fd3da8532551e0355c77acc7b4a4",
+    "sitemap.xml": "2e28d7e2fd80e301ed8a45dfc76cf5812dd403496b5e0a049192422dcd7f7dd1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fd8cca85078421f7eac018e0fe388ffadf6b36c11215a9652eca2b7b4260f43b",
+    "robots.txt": "46f38c0cfc48cd488d1ff162d4334b0e8ee4c170e809b8180c3111b40590c2d6",
+    "f4d79dbad5f9150b4c9d6c4ab9a127a6.txt": "54fb96bf17b677ec125eec8ece0b698405505f2e7a24da78f1e4a3e06c5c2301"
+  },
+  "revision": "e7017181c41fbf44aa9f30185b18a6e23493fc64faeb5c5be1b5904b549c1342"
+}
